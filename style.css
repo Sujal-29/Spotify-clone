@@ -27,7 +27,6 @@ body{
 
 .hometab{
     color: white;
-    /* border: 2px solid white; */
     margin-bottom: 0.5rem;
     background-color: #252525;
     padding: 10px;
@@ -39,7 +38,6 @@ body{
 
 .logo-list ul li{
     display: flex;
-    /* flex-direction: row; */
     list-style: none;
     gap: 10px;
     margin: 6px 0;
@@ -64,7 +62,6 @@ body{
 
 .librarybox{
     color: white;
-    /* border: 2px solid white; */
     background-color: #252525;
     height: 75vh;
 }
@@ -141,7 +138,6 @@ body{
     display: flex;
     flex-direction: column;
     color: white;
-    /* border: 2px solid white; */
     background-color: #252525;
     padding: 1rem ;
 }
@@ -196,7 +192,6 @@ span a{
     flex-direction: row;
     justify-content:space-between;
     align-items: center;
-    /* border: 2px solid white; */
     background-color: #252525;
     padding:0.5rem;
 }
@@ -238,7 +233,6 @@ span a{
 }
 
 .playlist-container{
-    /* border: 2px solid white; */
     padding: 1rem;
 }
 
@@ -385,7 +379,6 @@ span a{
     position: absolute;
     bottom: 0;
     filter: invert(1);
-    /* background-color:black; */
     cursor: pointer;
 }
 
