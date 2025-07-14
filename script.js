@@ -102,7 +102,11 @@ async function displayAlbum(){
 
     //display all the  album on the page
     displayAlbum()
-    
+
+     //Define an event listener to play,next and previous
+     const play =document.getElementbyId("play")
+     const previous =document.getElementbyId("previous")
+     const next =document.getElementbyId("next")
       
 
 
